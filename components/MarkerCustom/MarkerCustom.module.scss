@@ -1,0 +1,8 @@
+@import '../../styles/colors.scss';
+
+.markercustom {
+  background-color: $green2;
+  border: 1px solid $white;
+  border-radius: 100%;
+  outline: none;
+}

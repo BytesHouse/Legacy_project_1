@@ -1,0 +1,5 @@
+<svg width="35" height="5" viewBox="0 0 35 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="32.5" cy="2.5" r="2" transform="rotate(90 32.5 2.5)" stroke="#6734BA" />
+    <path fillRule="evenodd" clipRule="evenodd" d="M4 2L31 2L31 3L4 3L4 2Z" fill="#6734BA" />
+    <circle cx="2.5" cy="2.5" r="2.5" transform="rotate(90 2.5 2.5)" fill="#6734BA" />
+</svg>

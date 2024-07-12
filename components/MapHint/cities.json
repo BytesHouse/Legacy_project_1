@@ -1,0 +1,1610 @@
+[
+    {
+        "city": "Yerevan",
+        "lat": "40.1812",
+        "lng": "44.5136",
+        "iso": "AM"
+    },
+    {
+        "city": "Vienna",
+        "lat": "48.2",
+        "lng": "16.3666",
+        "iso": "AT"
+    },
+    {
+        "city": "Linz",
+        "lat": "48.3192",
+        "lng": "14.2888",
+        "iso": "AT"
+    },
+    {
+        "city": "Graz",
+        "lat": "47.0778",
+        "lng": "15.41",
+        "iso": "AT"
+    },
+    {
+        "city": "Salzburg",
+        "lat": "47.8105",
+        "lng": "13.04",
+        "iso": "AT"
+    },
+    {
+        "city": "Innsbruck",
+        "lat": "47.2804",
+        "lng": "11.41",
+        "iso": "AT"
+    },
+    {
+        "city": "Klagenfurt",
+        "lat": "46.6203",
+        "lng": "14.31",
+        "iso": "AT"
+    },
+    {
+        "city": "Bregenz",
+        "lat": "47.5167",
+        "lng": "9.7667",
+        "iso": "AT"
+    },
+    {
+        "city": "Eisenstadt",
+        "lat": "47.8333",
+        "lng": "16.5333",
+        "iso": "AT"
+    },
+    {
+        "city": "Sankt Pölten",
+        "lat": "48.2",
+        "lng": "15.6333",
+        "iso": "AT"
+    },
+    {
+        "city": "Wiener Neustadt",
+        "lat": "47.816",
+        "lng": "16.25",
+        "iso": "AT"
+    },
+    {
+        "city": "Baku",
+        "lat": "40.3953",
+        "lng": "49.8622",
+        "iso": "AZ"
+    },
+    {
+        "city": "Sarajevo",
+        "lat": "43.85",
+        "lng": "18.383",
+        "iso": "BA"
+    },
+    {
+        "city": "Brussels",
+        "lat": "50.8333",
+        "lng": "4.3333",
+        "iso": "BE"
+    },
+    {
+        "city": "Antwerp",
+        "lat": "51.2204",
+        "lng": "4.415",
+        "iso": "BE"
+    },
+    {
+        "city": "Liège",
+        "lat": "50.63",
+        "lng": "5.58",
+        "iso": "BE"
+    },
+    {
+        "city": "Gent",
+        "lat": "51.03",
+        "lng": "3.7",
+        "iso": "BE"
+    },
+    {
+        "city": "Charleroi",
+        "lat": "50.4204",
+        "lng": "4.45",
+        "iso": "BE"
+    },
+    {
+        "city": "Bruges",
+        "lat": "51.2204",
+        "lng": "3.23",
+        "iso": "BE"
+    },
+    {
+        "city": "Namur",
+        "lat": "50.4704",
+        "lng": "4.87",
+        "iso": "BE"
+    },
+    {
+        "city": "Mons",
+        "lat": "50.446",
+        "lng": "3.939",
+        "iso": "BE"
+    },
+    {
+        "city": "Hasselt",
+        "lat": "50.964",
+        "lng": "5.484",
+        "iso": "BE"
+    },
+    {
+        "city": "Arlon",
+        "lat": "49.6833",
+        "lng": "5.8167",
+        "iso": "BE"
+    },
+    {
+        "city": "Sofia",
+        "lat": "42.6833",
+        "lng": "23.3167",
+        "iso": "BG"
+    },
+    {
+        "city": "Plovdiv",
+        "lat": "42.154",
+        "lng": "24.754",
+        "iso": "BG"
+    },
+    {
+        "city": "Varna",
+        "lat": "43.2156",
+        "lng": "27.8953",
+        "iso": "BG"
+    },
+    {
+        "city": "Burgas",
+        "lat": "42.5146",
+        "lng": "27.4746",
+        "iso": "BG"
+    },
+    {
+        "city": "Ruse",
+        "lat": "43.8537",
+        "lng": "25.9733",
+        "iso": "BG"
+    },
+    {
+        "city": "Stara Zagora",
+        "lat": "42.4231",
+        "lng": "25.6227",
+        "iso": "BG"
+    },
+    {
+        "city": "Pleven",
+        "lat": "43.4238",
+        "lng": "24.6134",
+        "iso": "BG"
+    },
+    {
+        "city": "Sliven",
+        "lat": "42.6794",
+        "lng": "26.33",
+        "iso": "BG"
+    },
+    {
+        "city": "Dobrich",
+        "lat": "43.5851",
+        "lng": "27.84",
+        "iso": "BG"
+    },
+    {
+        "city": "Shumen",
+        "lat": "43.27",
+        "lng": "26.9294",
+        "iso": "BG"
+    },
+    {
+        "city": "Pernik",
+        "lat": "42.61",
+        "lng": "23.0227",
+        "iso": "BG"
+    },
+    {
+        "city": "Haskovo",
+        "lat": "41.9438",
+        "lng": "25.5633",
+        "iso": "BG"
+    },
+    {
+        "city": "Vratsa",
+        "lat": "43.21",
+        "lng": "23.5625",
+        "iso": "BG"
+    },
+    {
+        "city": "Veliko Tarnovo",
+        "lat": "43.0862",
+        "lng": "25.6555",
+        "iso": "BG"
+    },
+    {
+        "city": "Kyustendil",
+        "lat": "42.2843",
+        "lng": "22.6911",
+        "iso": "BG"
+    },
+    {
+        "city": "Montana",
+        "lat": "43.414",
+        "lng": "23.237",
+        "iso": "BG"
+    },
+    {
+        "city": "Lovech",
+        "lat": "43.138",
+        "lng": "24.719",
+        "iso": "BG"
+    },
+    {
+        "city": "Razgrad",
+        "lat": "43.534",
+        "lng": "26.536",
+        "iso": "BG"
+    },
+    {
+        "city": "Yambol",
+        "lat": "42.4833",
+        "lng": "26.5",
+        "iso": "BG"
+    },
+    {
+        "city": "Pazardzhik",
+        "lat": "42.2",
+        "lng": "24.3333",
+        "iso": "BG"
+    },
+    {
+        "city": "Kardzhali",
+        "lat": "41.65",
+        "lng": "25.3667",
+        "iso": "BG"
+    },
+    {
+        "city": "Vidin",
+        "lat": "43.99",
+        "lng": "22.8725",
+        "iso": "BG"
+    },
+    {
+        "city": "Blagoevgrad",
+        "lat": "42.0167",
+        "lng": "23.1",
+        "iso": "BG"
+    },
+    {
+        "city": "Gabrovo",
+        "lat": "42.8747",
+        "lng": "25.3342",
+        "iso": "BG"
+    },
+    {
+        "city": "Targovishte",
+        "lat": "43.2592",
+        "lng": "26.5892",
+        "iso": "BG"
+    },
+    {
+        "city": "Smolyan",
+        "lat": "41.5853",
+        "lng": "24.6919",
+        "iso": "BG"
+    },
+    {
+        "city": "Silistra",
+        "lat": "44.1167",
+        "lng": "27.2667",
+        "iso": "BG"
+    },
+    {
+        "city": "Minsk",
+        "lat": "53.9",
+        "lng": "27.5666",
+        "iso": "BY"
+    },
+    {
+        "city": "Homyel’",
+        "lat": "52.43",
+        "lng": "31",
+        "iso": "BY"
+    },
+    {
+        "city": "Mahilyow",
+        "lat": "53.8985",
+        "lng": "30.3247",
+        "iso": "BY"
+    },
+    {
+        "city": "Vitsyebsk",
+        "lat": "55.1887",
+        "lng": "30.1853",
+        "iso": "BY"
+    },
+    {
+        "city": "Hrodna",
+        "lat": "53.6779",
+        "lng": "23.8341",
+        "iso": "BY"
+    },
+    {
+        "city": "Brest",
+        "lat": "52.1",
+        "lng": "23.7",
+        "iso": "BY"
+    },
+    {
+        "city": "Babruysk",
+        "lat": "53.1266",
+        "lng": "29.1928",
+        "iso": "BY"
+    },
+    {
+        "city": "Baranavichy",
+        "lat": "53.1368",
+        "lng": "26.0134",
+        "iso": "BY"
+    },
+    {
+        "city": "Horad Barysaw",
+        "lat": "54.226",
+        "lng": "28.4922",
+        "iso": "BY"
+    },
+    {
+        "city": "Orsha",
+        "lat": "54.5153",
+        "lng": "30.4215",
+        "iso": "BY"
+    },
+    {
+        "city": "Pinsk",
+        "lat": "52.1279",
+        "lng": "26.0941",
+        "iso": "BY"
+    },
+    {
+        "city": "Mazyr",
+        "lat": "52.046",
+        "lng": "29.2722",
+        "iso": "BY"
+    },
+    {
+        "city": "Maladzyechna",
+        "lat": "54.3188",
+        "lng": "26.8653",
+        "iso": "BY"
+    },
+    {
+        "city": "Lida",
+        "lat": "53.8885",
+        "lng": "25.2846",
+        "iso": "BY"
+    },
+    {
+        "city": "Polatsk",
+        "lat": "55.4894",
+        "lng": "28.786",
+        "iso": "BY"
+    },
+    {
+        "city": "Geneva",
+        "lat": "46.21",
+        "lng": "6.14",
+        "iso": "CH"
+    },
+    {
+        "city": "Zürich",
+        "lat": "47.38",
+        "lng": "8.55",
+        "iso": "CH"
+    },
+    {
+        "city": "Bern",
+        "lat": "46.9167",
+        "lng": "7.467",
+        "iso": "CH"
+    },
+    {
+        "city": "Basel",
+        "lat": "47.5804",
+        "lng": "7.59",
+        "iso": "CH"
+    },
+    {
+        "city": "Lausanne",
+        "lat": "46.5304",
+        "lng": "6.65",
+        "iso": "CH"
+    },
+    {
+        "city": "Lucerne",
+        "lat": "47.0504",
+        "lng": "8.28",
+        "iso": "CH"
+    },
+    {
+        "city": "Lugano",
+        "lat": "46.0004",
+        "lng": "8.9667",
+        "iso": "CH"
+    },
+    {
+        "city": "Biel/Bienne",
+        "lat": "47.1666",
+        "lng": "7.25",
+        "iso": "CH"
+    },
+    {
+        "city": "Sankt Gallen",
+        "lat": "47.423",
+        "lng": "9.362",
+        "iso": "CH"
+    },
+    {
+        "city": "Chur",
+        "lat": "46.85",
+        "lng": "9.5",
+        "iso": "CH"
+    },
+    {
+        "city": "Fribourg",
+        "lat": "46.8",
+        "lng": "7.15",
+        "iso": "CH"
+    },
+    {
+        "city": "Prague",
+        "lat": "50.0833",
+        "lng": "14.466",
+        "iso": "CZ"
+    },
+    {
+        "city": "Ostrava",
+        "lat": "49.8304",
+        "lng": "18.25",
+        "iso": "CZ"
+    },
+    {
+        "city": "Brno",
+        "lat": "49.2004",
+        "lng": "16.61",
+        "iso": "CZ"
+    },
+    {
+        "city": "Plzeň",
+        "lat": "49.7404",
+        "lng": "13.36",
+        "iso": "CZ"
+    },
+    {
+        "city": "Zlín",
+        "lat": "49.2304",
+        "lng": "17.65",
+        "iso": "CZ"
+    },
+    {
+        "city": "Pardubice",
+        "lat": "50.0404",
+        "lng": "15.76",
+        "iso": "CZ"
+    },
+    {
+        "city": "Liberec",
+        "lat": "50.8",
+        "lng": "15.08",
+        "iso": "CZ"
+    },
+    {
+        "city": "Olomouc",
+        "lat": "49.63",
+        "lng": "17.25",
+        "iso": "CZ"
+    },
+    {
+        "city": "České Budějovice",
+        "lat": "48.98",
+        "lng": "14.46",
+        "iso": "CZ"
+    },
+    {
+        "city": "Hradec Králové",
+        "lat": "50.206",
+        "lng": "15.812",
+        "iso": "CZ"
+    },
+    {
+        "city": "Ústí nad Labem",
+        "lat": "50.663",
+        "lng": "14.081",
+        "iso": "CZ"
+    },
+    {
+        "city": "Jihlava",
+        "lat": "49.4004",
+        "lng": "15.5833",
+        "iso": "CZ"
+    },
+    {
+        "city": "Karlovy Vary",
+        "lat": "50.237",
+        "lng": "12.875",
+        "iso": "CZ"
+    },
+    {
+        "city": "Berlin",
+        "lat": "52.5218",
+        "lng": "13.4015",
+        "iso": "DE"
+    },
+    {
+        "city": "Stuttgart",
+        "lat": "48.78",
+        "lng": "9.2",
+        "iso": "DE"
+    },
+    {
+        "city": "Frankfurt",
+        "lat": "50.1",
+        "lng": "8.675",
+        "iso": "DE"
+    },
+    {
+        "city": "Hamburg",
+        "lat": "53.55",
+        "lng": "10",
+        "iso": "DE"
+    },
+    {
+        "city": "Munich",
+        "lat": "48.1299",
+        "lng": "11.575",
+        "iso": "DE"
+    },
+    {
+        "city": "Düsseldorf",
+        "lat": "51.2204",
+        "lng": "6.78",
+        "iso": "DE"
+    },
+    {
+        "city": "Cologne",
+        "lat": "50.93",
+        "lng": "6.95",
+        "iso": "DE"
+    },
+    {
+        "city": "Bremen",
+        "lat": "53.08",
+        "lng": "8.8",
+        "iso": "DE"
+    },
+    {
+        "city": "Hannover",
+        "lat": "52.367",
+        "lng": "9.7167",
+        "iso": "DE"
+    },
+    {
+        "city": "Bonn",
+        "lat": "50.7205",
+        "lng": "7.08",
+        "iso": "DE"
+    },
+    {
+        "city": "Dresden",
+        "lat": "51.05",
+        "lng": "13.75",
+        "iso": "DE"
+    },
+    {
+        "city": "Dortmund",
+        "lat": "51.53",
+        "lng": "7.45",
+        "iso": "DE"
+    },
+    {
+        "city": "Leipzig",
+        "lat": "51.3354",
+        "lng": "12.41",
+        "iso": "DE"
+    },
+    {
+        "city": "Augsburg",
+        "lat": "48.35",
+        "lng": "10.9",
+        "iso": "DE"
+    },
+    {
+        "city": "Potsdam",
+        "lat": "52.4004",
+        "lng": "13.07",
+        "iso": "DE"
+    },
+    {
+        "city": "Copenhagen",
+        "lat": "55.6786",
+        "lng": "12.5635",
+        "iso": "DK"
+    },
+    {
+        "city": "Tallinn",
+        "lat": "59.4339",
+        "lng": "24.728",
+        "iso": "EE"
+    },
+    {
+        "city": "Madrid",
+        "lat": "40.4",
+        "lng": "-3.6834",
+        "iso": "ES"
+    },
+    {
+        "city": "Barcelona",
+        "lat": "41.3833",
+        "lng": "2.1834",
+        "iso": "ES"
+    },
+    {
+        "city": "Sevilla",
+        "lat": "37.405",
+        "lng": "-5.98",
+        "iso": "ES"
+    },
+    {
+        "city": "Valencia",
+        "lat": "39.485",
+        "lng": "-0.4",
+        "iso": "ES"
+    },
+    {
+        "city": "Zaragoza",
+        "lat": "41.65",
+        "lng": "-0.89",
+        "iso": "ES"
+    },
+    {
+        "city": "Alicante",
+        "lat": "38.3512",
+        "lng": "-0.4836",
+        "iso": "ES"
+    },
+    {
+        "city": "Algeciras",
+        "lat": "36.1267",
+        "lng": "-5.4665",
+        "iso": "ES"
+    },
+    {
+        "city": "Santiago de Compostela",
+        "lat": "42.8829",
+        "lng": "-8.5411",
+        "iso": "ES"
+    },
+    {
+        "city": "Ciudad de Ceuta",
+        "lat": "35.889",
+        "lng": "-5.307",
+        "iso": "ES"
+    },
+    {
+        "city": "Toledo",
+        "lat": "39.867",
+        "lng": "-4.0167",
+        "iso": "ES"
+    },
+    {
+        "city": "Arrecife",
+        "lat": "28.969",
+        "lng": "-13.5378",
+        "iso": "ES"
+    },
+    {
+        "city": "Mérida",
+        "lat": "38.912",
+        "lng": "-6.338",
+        "iso": "ES"
+    },
+    {
+        "city": "Lorca",
+        "lat": "37.6886",
+        "lng": "-1.6985",
+        "iso": "ES"
+    },
+    {
+        "city": "Guadalajara",
+        "lat": "40.6337",
+        "lng": "-3.1666",
+        "iso": "ES"
+    },
+    {
+        "city": "Linares",
+        "lat": "38.0833",
+        "lng": "-3.6334",
+        "iso": "ES"
+    },
+    {
+        "city": "Helsinki",
+        "lat": "60.1756",
+        "lng": "24.9341",
+        "iso": "FI"
+    },
+    {
+        "city": "Kuopio",
+        "lat": "62.8943",
+        "lng": "27.6949",
+        "iso": "FI"
+    },
+    {
+        "city": "Paris",
+        "lat": "48.8667",
+        "lng": "2.3333",
+        "iso": "FR"
+    },
+    {
+        "city": "Lyon",
+        "lat": "45.77",
+        "lng": "4.83",
+        "iso": "FR"
+    },
+    {
+        "city": "Marseille",
+        "lat": "43.29",
+        "lng": "5.375",
+        "iso": "FR"
+    },
+    {
+        "city": "Lille",
+        "lat": "50.65",
+        "lng": "3.08",
+        "iso": "FR"
+    },
+    {
+        "city": "Nice",
+        "lat": "43.715",
+        "lng": "7.265",
+        "iso": "FR"
+    },
+    {
+        "city": "Toulouse",
+        "lat": "43.62",
+        "lng": "1.4499",
+        "iso": "FR"
+    },
+    {
+        "city": "Bordeaux",
+        "lat": "44.85",
+        "lng": "-0.595",
+        "iso": "FR"
+    },
+    {
+        "city": "Rouen",
+        "lat": "49.4304",
+        "lng": "1.08",
+        "iso": "FR"
+    },
+    {
+        "city": "Strasbourg",
+        "lat": "48.58",
+        "lng": "7.75",
+        "iso": "FR"
+    },
+    {
+        "city": "Nantes",
+        "lat": "47.2104",
+        "lng": "-1.59",
+        "iso": "FR"
+    },
+    {
+        "city": "Metz",
+        "lat": "49.1203",
+        "lng": "6.18",
+        "iso": "FR"
+    },
+    {
+        "city": "Grenoble",
+        "lat": "45.1804",
+        "lng": "5.72",
+        "iso": "FR"
+    },
+    {
+        "city": "Toulon",
+        "lat": "43.1342",
+        "lng": "5.9188",
+        "iso": "FR"
+    },
+    {
+        "city": "Montpellier",
+        "lat": "43.6104",
+        "lng": "3.87",
+        "iso": "FR"
+    },
+    {
+        "city": "Nancy",
+        "lat": "48.6837",
+        "lng": "6.2",
+        "iso": "FR"
+    },
+    {
+        "city": "London",
+        "lat": "51.5",
+        "lng": "-0.1167",
+        "iso": "GB"
+    },
+    {
+        "city": "Birmingham",
+        "lat": "52.475",
+        "lng": "-1.92",
+        "iso": "GB"
+    },
+    {
+        "city": "Manchester",
+        "lat": "53.5004",
+        "lng": "-2.248",
+        "iso": "GB"
+    },
+    {
+        "city": "Leeds",
+        "lat": "53.83",
+        "lng": "-1.58",
+        "iso": "GB"
+    },
+    {
+        "city": "Glasgow",
+        "lat": "55.8744",
+        "lng": "-4.2507",
+        "iso": "GB"
+    },
+    {
+        "city": "Newcastle upon Tyne",
+        "lat": "55.0004",
+        "lng": "-1.6",
+        "iso": "GB"
+    },
+    {
+        "city": "Liverpool",
+        "lat": "53.416",
+        "lng": "-2.918",
+        "iso": "GB"
+    },
+    {
+        "city": "Bristol",
+        "lat": "51.45",
+        "lng": "-2.5833",
+        "iso": "GB"
+    },
+    {
+        "city": "Edinburgh",
+        "lat": "55.9483",
+        "lng": "-3.2191",
+        "iso": "GB"
+    },
+    {
+        "city": "Tbilisi",
+        "lat": "41.725",
+        "lng": "44.7908",
+        "iso": "GE"
+    },
+    {
+        "city": "Kutaisi",
+        "lat": "42.25",
+        "lng": "42.73",
+        "iso": "GE"
+    },
+    {
+        "city": "Rust’avi",
+        "lat": "41.5704",
+        "lng": "45.05",
+        "iso": "GE"
+    },
+    {
+        "city": "Batumi",
+        "lat": "41.6",
+        "lng": "41.63",
+        "iso": "GE"
+    },
+    {
+        "city": "Sokhumi",
+        "lat": "43.02",
+        "lng": "41.02",
+        "iso": "GE"
+    },
+    {
+        "city": "Athens",
+        "lat": "37.9833",
+        "lng": "23.7333",
+        "iso": "GR"
+    },
+    {
+        "city": "Thessaloníki",
+        "lat": "40.6961",
+        "lng": "22.885",
+        "iso": "GR"
+    },
+    {
+        "city": "Trípoli",
+        "lat": "37.5091",
+        "lng": "22.3794",
+        "iso": "GR"
+    },
+    {
+        "city": "Zagreb",
+        "lat": "45.8",
+        "lng": "16",
+        "iso": "HR"
+    },
+    {
+        "city": "Budapest",
+        "lat": "47.5",
+        "lng": "19.0833",
+        "iso": "HU"
+    },
+    {
+        "city": "Miskolc",
+        "lat": "48.1004",
+        "lng": "20.78",
+        "iso": "HU"
+    },
+    {
+        "city": "Debrecen",
+        "lat": "47.5305",
+        "lng": "21.63",
+        "iso": "HU"
+    },
+    {
+        "city": "Szeged",
+        "lat": "46.2504",
+        "lng": "20.15",
+        "iso": "HU"
+    },
+    {
+        "city": "Pécs",
+        "lat": "46.0804",
+        "lng": "18.22",
+        "iso": "HU"
+    },
+    {
+        "city": "Nyíregyháza",
+        "lat": "47.9653",
+        "lng": "21.7187",
+        "iso": "HU"
+    },
+    {
+        "city": "Székesfehérvár",
+        "lat": "47.1947",
+        "lng": "18.4081",
+        "iso": "HU"
+    },
+    {
+        "city": "Győr",
+        "lat": "47.7004",
+        "lng": "17.63",
+        "iso": "HU"
+    },
+    {
+        "city": "Kecskemét",
+        "lat": "46.9",
+        "lng": "19.7",
+        "iso": "HU"
+    },
+    {
+        "city": "Szombathely",
+        "lat": "47.2253",
+        "lng": "16.6287",
+        "iso": "HU"
+    },
+    {
+        "city": "Szolnok",
+        "lat": "47.1864",
+        "lng": "20.1794",
+        "iso": "HU"
+    },
+    {
+        "city": "Kaposvár",
+        "lat": "46.367",
+        "lng": "17.8",
+        "iso": "HU"
+    },
+    {
+        "city": "Rome",
+        "lat": "41.896",
+        "lng": "12.4833",
+        "iso": "IT"
+    },
+    {
+        "city": "Milan",
+        "lat": "45.47",
+        "lng": "9.205",
+        "iso": "IT"
+    },
+    {
+        "city": "Naples",
+        "lat": "40.84",
+        "lng": "14.245",
+        "iso": "IT"
+    },
+    {
+        "city": "Turin",
+        "lat": "45.0704",
+        "lng": "7.67",
+        "iso": "IT"
+    },
+    {
+        "city": "Florence",
+        "lat": "43.78",
+        "lng": "11.25",
+        "iso": "IT"
+    },
+    {
+        "city": "Salerno",
+        "lat": "40.6804",
+        "lng": "14.7699",
+        "iso": "IT"
+    },
+    {
+        "city": "Palermo",
+        "lat": "38.125",
+        "lng": "13.35",
+        "iso": "IT"
+    },
+    {
+        "city": "Genoa",
+        "lat": "44.41",
+        "lng": "8.93",
+        "iso": "IT"
+    },
+    {
+        "city": "Bari",
+        "lat": "41.1142",
+        "lng": "16.8728",
+        "iso": "IT"
+    },
+    {
+        "city": "Bologna",
+        "lat": "44.5004",
+        "lng": "11.34",
+        "iso": "IT"
+    },
+    {
+        "city": "Verona",
+        "lat": "45.4404",
+        "lng": "10.99",
+        "iso": "IT"
+    },
+    {
+        "city": "Venice",
+        "lat": "45.4387",
+        "lng": "12.335",
+        "iso": "IT"
+    },
+    {
+        "city": "Modena",
+        "lat": "44.65",
+        "lng": "10.92",
+        "iso": "IT"
+    },
+    {
+        "city": "Parma",
+        "lat": "44.8104",
+        "lng": "10.32",
+        "iso": "IT"
+    },
+    {
+        "city": "Ancona",
+        "lat": "43.6004",
+        "lng": "13.4999",
+        "iso": "IT"
+    },
+    {
+        "city": "Almaty",
+        "lat": "43.325",
+        "lng": "76.915",
+        "iso": "KZ"
+    },
+    {
+        "city": "Nur-Sultan",
+        "lat": "51.1811",
+        "lng": "71.4278",
+        "iso": "KZ"
+    },
+    {
+        "city": "Vilnius",
+        "lat": "54.6834",
+        "lng": "25.3166",
+        "iso": "LT"
+    },
+    {
+        "city": "Kaunas",
+        "lat": "54.9504",
+        "lng": "23.88",
+        "iso": "LT"
+    },
+    {
+        "city": "Klaipėda",
+        "lat": "55.7204",
+        "lng": "21.1199",
+        "iso": "LT"
+    },
+    {
+        "city": "Luxembourg",
+        "lat": "49.6117",
+        "lng": "6.13",
+        "iso": "LU"
+    },
+    {
+        "city": "Riga",
+        "lat": "56.95",
+        "lng": "24.1",
+        "iso": "LV"
+    },
+    {
+        "city": "Daugavpils",
+        "lat": "55.88",
+        "lng": "26.51",
+        "iso": "LV"
+    },
+    {
+        "city": "Chisinau",
+        "lat": "47.005",
+        "lng": "28.8577",
+        "iso": "MD"
+    },
+    {
+        "city": "Tiraspol",
+        "lat": "46.8531",
+        "lng": "29.64",
+        "iso": "MD"
+    },
+    {
+        "city": "Bălţi",
+        "lat": "47.7591",
+        "lng": "27.9053",
+        "iso": "MD"
+    },
+    {
+        "city": "Cahul",
+        "lat": "45.9079",
+        "lng": "28.1944",
+        "iso": "MD"
+    },
+    {
+        "city": "Bender",
+        "lat": "46.8316",
+        "lng": "29.4777",
+        "iso": "MD"
+    },
+    {
+        "city": "Ialoveni",
+        "lat": "46.9435",
+        "lng": "28.7823",
+        "iso": "MD"
+    },
+    {
+        "city": "Soroca",
+        "lat": "48.1566",
+        "lng": "28.2849",
+        "iso": "MD"
+    },
+    {
+        "city": "Orhei",
+        "lat": "47.3849",
+        "lng": "28.8245",
+        "iso": "MD"
+    },
+    {
+        "city": "Ungheni",
+        "lat": "47.2108",
+        "lng": "27.8005",
+        "iso": "MD"
+    },
+    {
+        "city": "Edineţ",
+        "lat": "48.1721",
+        "lng": "27.3034",
+        "iso": "MD"
+    },
+    {
+        "city": "Rezina",
+        "lat": "47.7493",
+        "lng": "28.9658",
+        "iso": "MD"
+    },
+    {
+        "city": "The Hague",
+        "lat": "52.08",
+        "lng": "4.27",
+        "iso": "NL"
+    },
+    {
+        "city": "Amsterdam",
+        "lat": "52.35",
+        "lng": "4.9166",
+        "iso": "NL"
+    },
+    {
+        "city": "Rotterdam",
+        "lat": "51.92",
+        "lng": "4.48",
+        "iso": "NL"
+    },
+    {
+        "city": "Utrecht",
+        "lat": "52.1003",
+        "lng": "5.12",
+        "iso": "NL"
+    },
+    {
+        "city": "Eindhoven",
+        "lat": "51.43",
+        "lng": "5.5",
+        "iso": "NL"
+    },
+    {
+        "city": "Oslo",
+        "lat": "59.9167",
+        "lng": "10.75",
+        "iso": "NO"
+    },
+    {
+        "city": "Lisbon",
+        "lat": "38.7227",
+        "lng": "-9.1449",
+        "iso": "PT"
+    },
+    {
+        "city": "Porto",
+        "lat": "41.15",
+        "lng": "-8.62",
+        "iso": "PT"
+    },
+    {
+        "city": "Bucharest",
+        "lat": "44.4334",
+        "lng": "26.0999",
+        "iso": "RO"
+    },
+    {
+        "city": "Iaşi",
+        "lat": "47.1683",
+        "lng": "27.5749",
+        "iso": "RO"
+    },
+    {
+        "city": "Cluj-Napoca",
+        "lat": "46.7884",
+        "lng": "23.5984",
+        "iso": "RO"
+    },
+    {
+        "city": "Timişoara",
+        "lat": "45.7588",
+        "lng": "21.2234",
+        "iso": "RO"
+    },
+    {
+        "city": "Galaţi",
+        "lat": "45.4559",
+        "lng": "28.0459",
+        "iso": "RO"
+    },
+    {
+        "city": "Braşov",
+        "lat": "45.6475",
+        "lng": "25.6072",
+        "iso": "RO"
+    },
+    {
+        "city": "Craiova",
+        "lat": "44.3263",
+        "lng": "23.8259",
+        "iso": "RO"
+    },
+    {
+        "city": "Constanţa",
+        "lat": "44.2027",
+        "lng": "28.61",
+        "iso": "RO"
+    },
+    {
+        "city": "Ploieşti",
+        "lat": "44.9469",
+        "lng": "26.0365",
+        "iso": "RO"
+    },
+    {
+        "city": "Oradea",
+        "lat": "47.05",
+        "lng": "21.92",
+        "iso": "RO"
+    },
+    {
+        "city": "Brăila",
+        "lat": "45.292",
+        "lng": "27.969",
+        "iso": "RO"
+    },
+    {
+        "city": "Bacău",
+        "lat": "46.5784",
+        "lng": "26.9196",
+        "iso": "RO"
+    },
+    {
+        "city": "Piteşti",
+        "lat": "44.8563",
+        "lng": "24.8758",
+        "iso": "RO"
+    },
+    {
+        "city": "Arad",
+        "lat": "46.17",
+        "lng": "21.32",
+        "iso": "RO"
+    },
+    {
+        "city": "Sibiu",
+        "lat": "45.7971",
+        "lng": "24.1371",
+        "iso": "RO"
+    },
+    {
+        "city": "Târgu-Mureş",
+        "lat": "46.5582",
+        "lng": "24.5578",
+        "iso": "RO"
+    },
+    {
+        "city": "Baia Mare",
+        "lat": "47.6595",
+        "lng": "23.5791",
+        "iso": "RO"
+    },
+    {
+        "city": "Buzău",
+        "lat": "45.1565",
+        "lng": "26.8065",
+        "iso": "RO"
+    },
+    {
+        "city": "Botoşani",
+        "lat": "47.7484",
+        "lng": "26.6597",
+        "iso": "RO"
+    },
+    {
+        "city": "Satu Mare",
+        "lat": "47.792",
+        "lng": "22.885",
+        "iso": "RO"
+    },
+    {
+        "city": "Râmnicu Vâlcea",
+        "lat": "45.11",
+        "lng": "24.383",
+        "iso": "RO"
+    },
+    {
+        "city": "Drobeta-Turnu Severin",
+        "lat": "44.6459",
+        "lng": "22.6659",
+        "iso": "RO"
+    },
+    {
+        "city": "Suceava",
+        "lat": "47.6377",
+        "lng": "26.2593",
+        "iso": "RO"
+    },
+    {
+        "city": "Focşani",
+        "lat": "45.6966",
+        "lng": "27.1865",
+        "iso": "RO"
+    },
+    {
+        "city": "Piatra Neamţ",
+        "lat": "46.94",
+        "lng": "26.383",
+        "iso": "RO"
+    },
+    {
+        "city": "Belgrade",
+        "lat": "44.8186",
+        "lng": "20.468",
+        "iso": "RS"
+    },
+    {
+        "city": "Moscow",
+        "lat": "55.7522",
+        "lng": "37.6155",
+        "iso": "RU"
+    },
+    {
+        "city": "Saint Petersburg",
+        "lat": "59.939",
+        "lng": "30.316",
+        "iso": "RU"
+    },
+    {
+        "city": "Nizhniy Novgorod",
+        "lat": "56.333",
+        "lng": "44.0001",
+        "iso": "RU"
+    },
+    {
+        "city": "Samara",
+        "lat": "53.195",
+        "lng": "50.1513",
+        "iso": "RU"
+    },
+    {
+        "city": "Omsk",
+        "lat": "54.99",
+        "lng": "73.4",
+        "iso": "RU"
+    },
+    {
+        "city": "Kazan’",
+        "lat": "55.7499",
+        "lng": "49.1263",
+        "iso": "RU"
+    },
+    {
+        "city": "Rostov-na-Donu",
+        "lat": "47.2346",
+        "lng": "39.7127",
+        "iso": "RU"
+    },
+    {
+        "city": "Voronezh",
+        "lat": "51.73",
+        "lng": "39.27",
+        "iso": "RU"
+    },
+    {
+        "city": "Saratov",
+        "lat": "51.58",
+        "lng": "46.03",
+        "iso": "RU"
+    },
+    {
+        "city": "Tol’yatti",
+        "lat": "53.4804",
+        "lng": "49.53",
+        "iso": "RU"
+    },
+    {
+        "city": "Krasnodar",
+        "lat": "45.02",
+        "lng": "39",
+        "iso": "RU"
+    },
+    {
+        "city": "Stockholm",
+        "lat": "59.3508",
+        "lng": "18.0973",
+        "iso": "SE"
+    },
+    {
+        "city": "Ljubljana",
+        "lat": "46.0553",
+        "lng": "14.515",
+        "iso": "SI"
+    },
+    {
+        "city": "Bratislava",
+        "lat": "48.15",
+        "lng": "17.117",
+        "iso": "SK"
+    },
+    {
+        "city": "Istanbul",
+        "lat": "41.105",
+        "lng": "29.01",
+        "iso": "TR"
+    },
+    {
+        "city": "İzmir",
+        "lat": "38.4361",
+        "lng": "27.1518",
+        "iso": "TR"
+    },
+    {
+        "city": "Bursa",
+        "lat": "40.2",
+        "lng": "29.07",
+        "iso": "TR"
+    },
+    {
+        "city": "Konya",
+        "lat": "37.875",
+        "lng": "32.475",
+        "iso": "TR"
+    },
+    {
+        "city": "Tarsus",
+        "lat": "36.9204",
+        "lng": "34.88",
+        "iso": "TR"
+    },
+    {
+        "city": "Antalya",
+        "lat": "36.89",
+        "lng": "30.7",
+        "iso": "TR"
+    },
+    {
+        "city": "Kyiv",
+        "lat": "50.4334",
+        "lng": "30.5166",
+        "iso": "UA"
+    },
+    {
+        "city": "Kharkiv",
+        "lat": "50",
+        "lng": "36.25",
+        "iso": "UA"
+    },
+    {
+        "city": "Dnipro",
+        "lat": "48.48",
+        "lng": "35",
+        "iso": "UA"
+    },
+    {
+        "city": "Odesa",
+        "lat": "46.49",
+        "lng": "30.71",
+        "iso": "UA"
+    },
+    {
+        "city": "L’viv",
+        "lat": "49.835",
+        "lng": "24.03",
+        "iso": "UA"
+    },
+    {
+        "city": "Zaporizhzhya",
+        "lat": "47.8573",
+        "lng": "35.1768",
+        "iso": "UA"
+    },
+    {
+        "city": "Kryvyy Rih",
+        "lat": "47.9283",
+        "lng": "33.345",
+        "iso": "UA"
+    },
+    {
+        "city": "Mykolayiv",
+        "lat": "46.9677",
+        "lng": "31.9843",
+        "iso": "UA"
+    },
+    {
+        "city": "Poltava",
+        "lat": "49.574",
+        "lng": "34.5703",
+        "iso": "UA"
+    },
+    {
+        "city": "Chernihiv",
+        "lat": "51.5049",
+        "lng": "31.3015",
+        "iso": "UA"
+    },
+    {
+        "city": "Chernivtsi",
+        "lat": "48.3053",
+        "lng": "25.9216",
+        "iso": "UA"
+    },
+    {
+        "city": "Tashkent",
+        "lat": "41.3117",
+        "lng": "69.2949",
+        "iso": "UZ"
+    }
+]

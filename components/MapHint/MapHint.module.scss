@@ -1,0 +1,134 @@
+@import '../../styles/colors.scss';
+
+.maphint {
+  display: flex;
+  padding: 25px 0;
+
+  @media screen and (max-width: 768px) {
+    width: 100%;
+  }
+
+  @media screen and (max-width: 480px) {
+    position: relative;
+    width: 200%;
+    left: -70%;
+  }
+
+  .svgicon {
+    width: 30px;
+    height: 40px;
+  }
+
+  .worldmap {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin: 25px auto;
+
+    @media (max-width: 1023px) {
+      width: 100%;
+      margin: 10px auto;
+
+    }
+
+    .map {
+      width: 100%;
+      height: auto;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  .maplocation {
+    position: absolute;
+    margin-left: -15px;
+    margin-top: -10px;
+    color: #323232;
+    transition: all 0.3s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+    transform: scale(1);
+    border-radius: 5px;
+    cursor: pointer;
+
+    @media screen and (max-width: 800px){
+      margin-top: -15px;
+    }
+
+    .locationbubble {
+      position: absolute;
+      top: -50px;
+      left: 50%;
+      width: 200px;
+      margin-left: -100px;
+      padding: 5px;
+      background: rgba(255, 255, 255, 1);
+      border-radius: 4px;
+      box-shadow: 0 0 2px $black-20;
+
+      &:before {
+        content: "";
+        position: absolute;
+        top: 100%;
+        right: auto;
+        bottom: auto;
+        left: 50%;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        margin-left: -8px;
+        border-width: 8px 8px 0;
+        border-color: rgba(255, 255, 255, 1) transparent;
+      }
+
+      &:after {
+        margin-left: -6px;
+        border-width: 6px 6px 0;
+        border-color: #fff transparent;
+      }
+    }
+
+    .locationname {
+      display: flex;
+      margin: 2px;
+
+      .first {
+        flex: 2 1;
+        display: flex;
+        align-items: center;
+        white-space: nowrap;
+        font-size: 12px;
+        font-weight: 400;
+        text-overflow: ellipsis;
+        overflow: hidden;
+
+        .country {
+          height: 12px;
+          width: 12px;
+          margin-right: 5px;
+        }
+      }
+
+      .second {
+        flex: 1 1;
+        font-size: 12px;
+        font-weight: 700;
+        background-color: $white;
+        margin-left: 3px;
+
+        .truck {
+          height: 12px;
+          width: auto;
+          fill: $dark;
+        }
+      }
+    }
+  }
+
+  .pin {
+    top: 60%;
+    left: 48%;
+  }
+}
